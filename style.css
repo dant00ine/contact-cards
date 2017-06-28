@@ -1,0 +1,28 @@
+form {
+    width: 30%;
+    padding: 1%;
+    border: 1px dotted black;
+    display: inline-block;
+}
+
+form div {
+    padding: 10px;
+}
+
+.cards {
+    width: 65%;
+    margin-left: 2%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card p:last-child {
+    display: none;
+}
+
+.card {
+    text-align: center;
+    padding: 5%;
+    width: 250px;
+    border: 1px solid black;
+}
